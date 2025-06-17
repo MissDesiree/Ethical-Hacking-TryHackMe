@@ -1,0 +1,13 @@
+Offensive vs Defensive Security – What's the Difference?
+
+In the cybersecurity world, there are two main sides of the coin: Offensive Security and Defensive Security.
+
+Think of Offensive Security as the "attacker" mindset. You're learning how to simulate attacks, break into systems, and expose weak spots — all with permission, of course. Your job is to outsmart potential hackers before they strike.
+
+On the other hand, Defensive Security is all about protection. It includes things like firewalls, antivirus software, security patches, and monitoring systems. If Offensive Security is playing offense in a game, Defensive Security is the strong defense that blocks every move.
+
+Why learn both? Because understanding how hackers think gives you an edge in defending against them. Even if your future job is in a defensive role like a SOC Analyst or Network Admin, knowing offensive techniques helps you spot threats faster.
+
+Most beginners start by learning basic Offensive Security through platforms like TryHackMe or Hack The Box. You practice in sandbox environments, get familiar with scanning and exploiting, and start thinking like a hacker.
+
+The truth is, both sides matter. But if you want to learn fast and have fun doing it, Offensive Security gives you hands-on experience right away.
