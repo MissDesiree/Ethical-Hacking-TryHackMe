@@ -1,0 +1,17 @@
+My First Hack with TryHackMe
+
+What I Learned
+
+Starting out in cybersecurity can feel overwhelming. There are so many tools, terms, and technologies to learn. But recently, I completed my first hacking lab on TryHackMe, and I want to share what I learned.
+
+The lab walked me through discovering a hidden bank transfer page on a fake website. Using a tool called Gobuster, I was able to scan directories and find secret pages like /bank-transfer. It felt like uncovering digital treasure.
+
+From there, I learned how to simulate a real attack: logging into a hidden admin panel and transferring money between accounts. Of course, this was all done in a safe, legal environment — a fake bank built for practice.
+
+What really stood out to me was the logic behind every step. Hacking isn’t about guessing passwords or using magic tools. It’s about understanding how websites are built, where developers might make mistakes, and how attackers can exploit those flaws.
+
+The most exciting part? I got to see the result of my hack reflected on the fake account page — a reminder that learning by doing really works.
+
+If you're just starting out in cybersecurity, I highly recommend using TryHackMe to get hands-on. You don’t need coding experience. You just need curiosity and a willingness to learn.
+
+Hacking your first website ethically isn’t just about learning to attack. It’s about understanding how to defend.
