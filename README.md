@@ -1,6 +1,8 @@
 # Ethical-Hacking-TryHackMe
 
 Why Think Like a Hacker? Welcome to Offensive Security
+
+
 If you're reading this, you're probably curious about how hackers work  or maybe you're just starting your journey into cybersecurity. Either way, welcome. You're about to enter a world where you get to think like a hacker  but for good.
 
 This mindset is called Offensive Security. It’s the part of cybersecurity where ethical hackers try to break into systems the same way a malicious hacker would. Why? To find weaknesses before the bad guys do. Imagine being paid to legally hack into systems to make them stronger. That's the role of a penetration tester or ethical hacker.
